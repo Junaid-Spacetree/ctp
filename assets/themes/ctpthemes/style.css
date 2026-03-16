@@ -1,0 +1,19 @@
+/*
+Theme Name: CTP
+Theme URI: 
+Description: A Theme Developed For CTP
+Version: 1.2
+Author:  Agitechinformatics
+Author URI: 
+Tags:  html5, clean, bootstrap
+*/
+@import "css/reset.css";
+@import "css/layout.css";
+@import "css/bootstrap.css";
+@import "css/base.css";
+@import "css/header.css";
+@import "css/common.css";
+
+strong{
+ font-weight:bold !important; 
+}
