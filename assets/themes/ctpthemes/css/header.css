@@ -126,4 +126,11 @@ nav.navbar.navbar-default{border-bottom:none !important;}
 .banner .banner_caption h4 {
     font-size: 14px !important;
 }
+.banner .banner_caption h1.banner-title {
+    font-size: 15px !important;
+    line-height: 1.3 !important;
+}
+.banner .banner_caption h1.banner-title span {
+    font-size: 10px !important;
+}
 }
